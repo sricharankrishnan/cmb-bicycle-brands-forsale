@@ -10,7 +10,6 @@
   {"brandname": "EZ Playmates", "formvalue": "ex-playmates"},
   {"brandname": "Firefox", "formvalue": "firefox"},
   {"brandname": "Focus", "formvalue": "focus"},
-  {"brandname": "Fomas", "formvalue": "fomas"},
   {"brandname": "Format", "formvalue": "format"},
   {"brandname": "Frog", "formvalue": "frog"},
   {"brandname": "Fuji", "formvalue": "fuji"},
@@ -19,7 +18,6 @@
   {"brandname": "Hercules", "formvalue": "hercules"},
   {"brandname": "Hero", "formvalue": "hero"},
   {"brandname": "HLX-NMC", "formvalue": "hlx-nmc"},
-  {"brandname": "Hollicy", "formvalue": "hollicy"},
   {"brandname": "Java", "formvalue": "java"},
   {"brandname": "Kross", "formvalue": "kross"},
   {"brandname": "Lectro", "formvalue": "lectro"},
@@ -30,6 +28,5 @@
   {"brandname": "Polygon", "formvalue": "polygon"},
   {"brandname": "Ridley", "formvalue": "ridley"},
   {"brandname": "Roadeo", "formvalue": "roadeo"},
-  {"brandname": "Schwinn", "formvalue": "schwinn"},
   {"brandname": "Tern", "formvalue": "tern"}
 ]
